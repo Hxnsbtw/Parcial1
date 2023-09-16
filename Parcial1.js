@@ -21,3 +21,5 @@ if (Numero > 0 && Numero < 10) {
 }
 
 alert("HOLAA segun con las condiciones de la logica, su resultado es " + Resultado ); 
+
+//PARCIAL HECHO POR Hans Alberto Mera Florez
